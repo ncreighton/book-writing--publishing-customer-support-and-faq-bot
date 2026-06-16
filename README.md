@@ -1,2 +1,34 @@
-# book-writing--publishing-customer-support-and-faq-bot
-24/7 automated responses, ticket routing, and knowledge base search for Book Writing &amp; Publishing businesses. Support coverage without hiring more staff.
+# Book Writing & Publishing Customer Support and FAQ Bot
+
+24/7 automated responses, ticket routing, and knowledge base search for Book Writing & Publishing businesses. Support coverage without hiring more staff.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZufZhdPpf6QbRScDWd0h2x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZufZhdPpf6QbRScDWd0h2x)
+
